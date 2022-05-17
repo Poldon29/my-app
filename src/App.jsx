@@ -15,7 +15,7 @@ function App() {
         </p>
         <a 
           className="App-link" 
-          href="https://github.com/Poldon29/Front_End" 
+          href="https://github.com/Poldon29/my-app" 
           target="_blank"
           rel="noopener noreferrer"
         >
